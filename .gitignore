@@ -17,3 +17,5 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+docker/conf/ssl/*.key
+docker/conf/ssl/*.pem
