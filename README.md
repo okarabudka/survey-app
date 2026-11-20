@@ -64,7 +64,7 @@ docker compose exec php php artisan test
 
 ## Status
 
-Unfinished learning project (2023): only the frontend skeleton was built, not maintained.
+Archived, snapshot of 2023: an unfinished learning project (only the frontend skeleton was built). For a finished full-stack example see [media-app](https://github.com/okarabudka/media-app).
 
 ## License
 
